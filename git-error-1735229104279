@@ -1,0 +1,3 @@
+> git add -A -- .
+error: 'abc/' does not have a commit checked out
+fatal: adding files failed
